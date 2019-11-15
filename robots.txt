@@ -12,5 +12,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://dajiang123868.github.io/sitemap.xml
-Sitemap: https://dajiang123868.github.io/baidusitemap.xml
+Sitemap: https://www.dajiangwu.com/sitemap.xml
+Sitemap: https://www.dajiangwu.com/baidusitemap.xml
